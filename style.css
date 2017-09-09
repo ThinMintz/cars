@@ -1,0 +1,18 @@
+h1 {
+	font-family: "Trebuchet";
+	color: green;
+	background-color: yellow;
+	margin: auto;
+	text-align: center;
+}
+
+img {
+	width: 50%;
+	height:50%;
+	position: relative;
+}
+
+p {
+	float: right;
+	font-family: "Georgia"
+}
